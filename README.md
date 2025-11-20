@@ -52,6 +52,6 @@ High-performance real-time CCTV monitoring software built with **C++** and **ONN
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/cctv-onnx-monitor.git
-cd cctv-onnx-monitor
+git clone https://github.com/Techsolutions2024/Yolo-object-couting-for-CPP
+cd Yolo-object-couting-for-CPP
 
